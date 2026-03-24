@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/logo.png" width="120" alt="VulnDraft Logo">
+  <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/VulnDraft_Logo.png" width="520" alt="VulnDraft Logo">
   
   # 🐞 VulnDraft
   
@@ -177,7 +177,7 @@ curl -X POST http://localhost:8000/api/v1/reports \
   
 ### 📄 Report Examples
   
-<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report-hackerone.png" width="400" alt="HackerOne Report"> <br> <em> Style Report</em> </td>  <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report-bugcrowd.png" width="400" alt="Bugcrowd Report"> <br> <em> Style Report</em> </td> </tr> <summary> <b> </tr> </table> </details></div>
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/Report1.png" width="400" alt="HackerOne Report"> <br> <em> Style Report</em> </td>  <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report5.png" width="400" alt="Bugcrowd Report"> <br> <em> Style Report</em> </td> </tr> <summary> <b> </tr> </table> </details></div>
 
 
 ## 📁 Project Structure
