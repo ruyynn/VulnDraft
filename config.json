@@ -1,0 +1,12 @@
+{
+  "app_name": "Bug Report Generator Pro",
+  "version": "1.0.0",
+  "default_author": "Ruyynn",
+  "default_platform": "hackerone",
+  "output_dir": "./output",
+  "templates_dir": "./templates",
+  "cvss_version": "3.1",
+  "supported_formats": ["md", "html", "json"],
+  "max_retries": 3,
+  "session_timeout": 3600
+}
