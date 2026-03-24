@@ -169,11 +169,11 @@ curl -X POST http://localhost:8000/api/v1/reports \
   
 ### 🎨 Web Interface
   
-<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-web-1.png" width="400" alt="Web Interface - Form"> <br> <em>Clean, professional form interface</em> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-web-2.png" width="400" alt="Web Interface - Report"> <br> <em> Clean, professional </em> </td> </tr> </table>
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report2.png" width="400" alt="Web Interface - Form"> <br> <em>Clean, professional form interface</em> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report6.png" width="400" alt="Web Interface - Report"> <br> <em> Clean, professional </em> </td> </tr> </table>
   
 ### 💻 CLI Interface
 
-<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-cli-1.png" width="400" alt="CLI - Interactive"> <br> <em>Interactive CLI prompts</em> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-cli-2.png" width="400" alt="CLI - CVSS Calculator"> <br> <em>Built-in CVSS calculator</em> </td> </tr> </table>
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report3.png" width="400" alt="CLI - Interactive"> <br> <em>Interactive CLI prompts</em> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report4.png" width="400" alt="CLI - CVSS Calculator"> <br> <em>Preview Markdown In Terminal </em> </td> </tr> </table>
   
 ### 📄 Report Examples
   
