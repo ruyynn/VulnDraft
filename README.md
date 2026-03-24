@@ -314,9 +314,12 @@ furnished to do so, subject to the following conditions...
 ```
 
 ## 👥 Contributors
-Thanks to these awesome people for helping make VulnDraft better!
 
-[![Contributor](https://contrib.rocks/image?repo=ruyynn/VulnDraft)](https://github.com/ruyynn/VulnDraft/graphs/contributors)
+Thank you to everyone who has contributed to VulnDraft!
+
+<a href="https://github.com/ruyynn/VulnDraft/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ruyynn/VulnDraft" />
+</a>
 
 thanks to [zeennxx](https://github.com/zeennxx) for contributions!
 
