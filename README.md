@@ -16,7 +16,7 @@
   <p align="center">
     <strong>Generate professional, platform-compliant security reports in minutes.</strong>
     <br>
-    Built for bug hunters, by a bug hunter.
+    Made for bug hunters, by Ruyynn.
   </p>
   
   <p align="center">
