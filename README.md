@@ -33,6 +33,25 @@
 
 ---
 
+## 📌 About VulnDraft
+
+**VulnDraft** is an open-source tool designed to help security researchers and bug bounty hunters generate clear, structured, and professional vulnerability reports.
+
+_In bug bounty and penetration testing workflows, discovering vulnerabilities is only half the battle. Writing well-structured reports that clearly explain the issue, impact, and reproduction steps is just as important. VulnDraft streamlines this process by providing automated report generation using clean templates._
+
+_The tool supports report formats for popular bug bounty platforms such as **HackerOne**, **Bugcrowd**, and **Intigriti**, allowing researchers to quickly generate reports that match platform expectations._
+
+### Key Goals
+
+- Improve the **quality and consistency** of vulnerability reports  
+- Reduce the **time spent formatting reports manually**  
+- Provide **structured templates** for common bug bounty platforms  
+- Help researchers focus more on **finding vulnerabilities**, not writing reports  
+
+> VulnDraft aims to become a simple but powerful tool in the **bug bounty and security research workflow**, making professional reporting faster and easier.
+
+---
+
 ## ✨ Features
 
 <table>
@@ -84,14 +103,28 @@
 
 > *"Finding a bug is hard enough. Writing a professional report shouldn't be."*
 
-**VulnDraft** was born from a real problem: in bug bounty, finding the vulnerability is one challenge — but **writing a clear, structured report is another skill entirely**.
+**VulnDraft** was created to solve a common problem in bug bounty and penetration testing workflows.  
+Discovering vulnerabilities is only part of the process — **writing a clear, structured report is equally important.**
 
-I built this tool because:
-- 🔥 **Time-consuming** - Formatting reports takes valuable time
-- 📋 **Inconsistent** - Every platform has different requirements
-- 😤 **Frustrating** - Writing the same structure over and over again
-- 🚀 **Solution** - One tool, all platforms, professional reports instantly
+Many security researchers spend unnecessary time formatting reports instead of focusing on actual security research.
 
+### The Problem
+
+- 🔥 **Time-consuming** — Formatting reports manually wastes valuable time  
+- 📋 **Inconsistent** — Every platform has different reporting formats  
+- 😤 **Repetitive** — Researchers often rewrite the same structure repeatedly  
+
+### The Solution
+
+**VulnDraft** simplifies the reporting process by generating structured vulnerability reports automatically.
+
+With VulnDraft you can:
+
+- ⚡ Generate professional bug bounty reports in seconds  
+- 🧩 Use templates for platforms like HackerOne, Bugcrowd, and Intigriti  
+- 📊 Include CVSS scoring and structured vulnerability details  
+- 📄 Export clean Markdown reports ready for submission
+  
 ---
 
 ## 🚀 Quick Start
