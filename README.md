@@ -169,7 +169,7 @@ curl -X POST http://localhost:8000/api/v1/reports \
   
 ### 🎨 Web Interface
   
-<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-web-1.png" width="400" alt="Web Interface - Form"> <br> <em>Clean, professional form interface</em> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-web-2.png" width="400" alt="Web Interface - Report"> <br> <em>Generated report preview</em> </td> </tr> </table>
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-web-1.png" width="400" alt="Web Interface - Form"> <br> <em>Clean, professional form interface</em> </td> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/screenshot-web-2.png" width="400" alt="Web Interface - Report"> <br> <em> Clean, professional </em> </td> </tr> </table>
   
 ### 💻 CLI Interface
 
@@ -177,7 +177,7 @@ curl -X POST http://localhost:8000/api/v1/reports \
   
 ### 📄 Report Examples
   
-<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report-hackerone.png" width="400" alt="HackerOne Report"> <br> <em>HackerOne Style Report</em> </td>  <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report-bugcrowd.png" width="400" alt="Bugcrowd Report"> <br> <em>Bugcrowd Style Report</em> </td> </tr> <summary> <b> </tr> </table> </details></div>
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report-hackerone.png" width="400" alt="HackerOne Report"> <br> <em> Style Report</em> </td>  <td align="center"> <img src="https://raw.githubusercontent.com/ruyynn/VulnDraft/main/assets/report-bugcrowd.png" width="400" alt="Bugcrowd Report"> <br> <em> Style Report</em> </td> </tr> <summary> <b> </tr> </table> </details></div>
 
 
 ## 📁 Project Structure
